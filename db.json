@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Mowmita Ahmed",
+      "lastName": "Chowdhury",
+      "email": "ahmedmowmita@gmail.com",
+      "mobileNumber": "01620421090",
+      "salary": 115000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
